@@ -4,4 +4,4 @@ Code
 Output
 ![Screenshot 2025-05-06 023613](https://github.com/user-attachments/assets/2a8dac6e-e281-40b3-9c2e-54c7a4ac3d06)
 Explanation
-Install Streamlit, create an app.py file, use st.title, st.header, and st.write to show text, add input fields with st.text_input and st.number_input, and display output based on the user's input.
+First, you install Streamlit by running pip install streamlit. Then, you create a file called app.py to write your code. Inside that file, you can add text using st.title for the main title, st.header for a subheading, and st.write for regular text. After that, you can add input fields like st.text_input for text and st.number_input for numbers. Finally, you display output based on what the user types in by showing the result with st.write.
